@@ -8,51 +8,85 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engineering at Nanyang Technological University (NTU). I am working in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan), and supervised by [Prof Chen Lyu](https://scholar.google.com/citations?user=UKVs2CEAAAAJ&hl=en).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+In my research, I focus on the intersection between human-machine learning cooperation and autonomous electrified vehicle. My Ph.D. study aims to harness human intelligence to optimize the training cost and performance of reinforcement learning algorithms. In particular, my research points include behavior decision-making and planning of autonomous vehicles and energy management of electrified vehicles and hybrid energy storage systems. I have published more than 20 papers in top journals and conferences.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.05*: &nbsp;🎉🎉 Our paper on reinforcement learning with human guidance has been accepted by IEEE Transactions on Neural Networks and Learning Systems!
+- *2022.05*: &nbsp;🎉🎉 Our paper on human-in-the-loop reinforcement learning has been accepted by Engineering, the official journal of the Chinese Academy of Engineering!
+- *2022.04*: &nbsp;🎉🎉 Our paper on reinforcement learning with expert demonstrations has been accepted by IV 2022!
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><img src='images/prediction.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Prioritized Experience-based Reinforcement Learning with Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2109/2109.12516.pdf), **Jingda Wu**, Zhiyu Huang, Wenhui Huang, and Chen Lv
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**IEEE Transactions on Neural Networks and Learning Systems, 2022, Accepted**
+-  We propose a priority experience utilization method in the context of human guidance-based off-policy reinforcement learning (RL) algorithms, in which we establish an advantage measurement to highlight high-value human guidance data over the mixed experience buffer with both human demonstration and RL experience. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><img src='images/ExpertDRL.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient Deep Reinforcement Learning with Imitative Expert Priors for Autonomous Driving](https://arxiv.org/pdf/2103.10690.pdf), **Zhiyu Huang**, Jingda Wu, Chen Lv
+
+**IEEE Transactions on Neural Networks and Learning Systems, 2022** \| [**Project**](https://mczhi.github.io/Expert-Prior-RL/) \| [![](https://img.shields.io/github/stars/MCZhi/Expert-Prior-RL?style=social&label=Code Stars)](https://github.com/MCZhi/Expert-Prior-RL)
+-  We propose a novel framework to incorporate human prior knowledge in DRL, in order to improve the sample efficiency and save the effort of designing sophisticated reward functions.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/IRL.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning](https://arxiv.org/pdf/2010.03118.pdf), **Zhiyu Huang**, Jingda Wu, Chen Lv
+
+**IEEE Transactions on Intelligent Transportation Systems, 2021** \| [![](https://img.shields.io/github/stars/MCZhi/Driving-IRL-NGSIM?style=social&label=Code Stars)](https://github.com/MCZhi/Driving-IRL-NGSIM)
+- We propose a structural assumption about internal reward function-based human driving behavior and employ sampling-based maximum entropy inverse reinforcement learning (IRL) algorithm to infer the reward function parameters from naturalistic human driving data.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/multimodal.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-modal sensor fusion-based deep neural network for end-to-end autonomous driving with scene understanding](https://arxiv.org/pdf/2005.09202.pdf), **Zhiyu Huang**, Chen Lv, Yang Xing, Jingda Wu
+
+**IEEE Sensors Journal, 2020**
+- We propose a novel deep neural network-based system for end-to-end autonomous driving, consisting of multimodal sensor fusion, scene understanding, and conditional driving policy modules. 
+</div>
+</div>
+- [Prioritized Experience-based Reinforcement Learning with Human Guidance: Methdology and Application to Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2109/2109.12516.pdf), Jingda Wu, **Zhiyu Huang**, Wenhui Huang, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2022**
+
+- [Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2104/2104.07246.pdf), Jingda Wu, **Zhiyu Huang**, Chao Huang, Zhongxu Hu, Peng Hang, Yang Xing, Chen Lv, **Engineering, 2022**
+
+- [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, **Zhiyu Huang**, Jingda Wu, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
+
+- [Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network](https://ieeexplore.ieee.org/abstract/document/9700483), Xiaoyu Mo, **Zhiyu Huang**, Yang Xing, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2022**
+
+- [Digital Twin-enabled Reinforcement Learning for End-to-end Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9540179), Jingda Wu, **Zhiyu Huang**, Peng Hang, Chao Huang, Niels De Boer, Chen Lv, **IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021**
+
+- [Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2106/2106.12194.pdf), Jingda Wu, **Zhiyu Huang**, Chen Lv, **arXiv**
+
+- [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
+
+- [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.03* [2nd Place Winner, IEEE VTS Motor Vehicles Challenge](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851)
+- *2021.06* [1st Place Winner, Waymo Open Dataset Interaction Prediction Challenge](http://cvpr2021.wad.vision/) 
+- *2021.06* [2nd Place Winner, Waymo Open Dataset Motion Prediction Challenge](http://cvpr2021.wad.vision/)
+- *2019.06* Outstanding Graduate (Top 1%)
+- *2018.10* National Scholarship (Top 1%)
+- *2017.10* National Scholarship (Top 1%)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2019.08 - 2023.07*, Doctor of Philosophy, Robotics and Autonomous Systems, Nanyang Technological University, Singapore 
+- *2015.09 - 2019.06*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Invited Talks 
+- *2021.06*, Interaction Prediction, CVPR 2021 Workshop on Autonomous Driving. [\[video\]](https://youtu.be/sjXI_FKYw4Y?t=2546)
