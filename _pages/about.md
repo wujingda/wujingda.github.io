@@ -20,7 +20,7 @@ I focus on the intersection between human-machine learning cooperation and auton
 - *2022.04*: &nbsp;🎉🎉 Our paper on reinforcement learning with expert demonstrations has been accepted by IV 2022!
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><img src='images/prediction.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/tnnls_jingda.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Prioritized Experience-based Reinforcement Learning with Human Guidance for Autonomous Driving] (https://arxiv.org/ftp/arxiv/papers/2109/2109.12516.pdf), **Jingda Wu**, Zhiyu Huang, Wenhui Huang, and Chen Lv
@@ -30,32 +30,22 @@ I focus on the intersection between human-machine learning cooperation and auton
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/ExpertDRL.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/engineering.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving] (https://arxiv.org/ftp/arxiv/papers/2104/2104.07246.pdf), **Jingda Wu**, Zhiyu Huang, Zhongxu Hu, and Chen Lv
 
-**Engineering (中国工程院院刊), in press, 2022** \| [**Project**](https://github.com/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning) \| [![]](https://github.com/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning)
+**Engineering (中国工程院院刊), in press, 2022** \| [**Project**](https://github.com/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning) 
 -  We propose a real-time human guidance-based deep reinforcement learning (Hug-DRL) method for improving policy training performance. The newly designed actor-critic architecture enabled the DRL policy to approaching human guidance, and a 40 subjects-involved human-in-the-loop experimental validation confirm its the superior performance for end-to-end autonomous driving cases. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/IRL.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/tiv_jingda.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Digital Twin-enabled Reinforcement Learning for End-to-end Autonomous Driving], **Jingda Wu**, Zhiyu Huang, Peng Hang, and Chen Lv
+[Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2106/2106.12194.pdf), **Jingda Wu**, Zhiyu Huang, and Chen Lv
 
-** IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021** 
-- We propose a structural assumption about internal reward function-based human driving behavior and employ sampling-based maximum entropy inverse reinforcement learning (IRL) algorithm to infer the reward function parameters from naturalistic human driving data.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/multimodal.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-[Multi-modal sensor fusion-based deep neural network for end-to-end autonomous driving with scene understanding](https://arxiv.org/pdf/2005.09202.pdf), **Zhiyu Huang**, Chen Lv, Yang Xing, Jingda Wu
-
-**IEEE Sensors Journal, 2020**
+**IEEE Transactions on Intelligent Vehicle (Under Minor Revision), 2022**
 - We propose a novel deep neural network-based system for end-to-end autonomous driving, consisting of multimodal sensor fusion, scene understanding, and conditional driving policy modules. 
 </div>
 </div>
