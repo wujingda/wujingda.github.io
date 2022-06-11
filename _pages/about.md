@@ -48,7 +48,8 @@ I focus on the intersection between human-machine learning cooperation and auton
 [Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2106/2106.12194.pdf), **Jingda Wu**, Zhiyu Huang, Chen Lv
 
 **IEEE Transactions on Intelligent Vehicle (Under Minor Revision), 2022**
-- We propose a novel deep neural network-based system for end-to-end autonomous driving, consisting of multimodal sensor fusion, scene understanding, and conditional driving policy modules. 
+- we propose a novel uncertainty-aware model-based RL method to improve the RL performance in the context of highly uncertain environment model. Base on an action-conditioned ensemble model, we develop an adaptive truncation approach to determine the utilization extent of the environment model and improving RL’s training efficiency and performance. 
+
 </div>
 </div>
 
