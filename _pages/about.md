@@ -54,7 +54,7 @@ I focus on the intersection between human-machine learning cooperation and auton
 
 - [Digital Twin-enabled Reinforcement Learning for End-to-end Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9540179), **Jingda Wu**, Zhiyu Huang, Peng Hang, Chao Huang, Niels De Boer, Chen Lv, **IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021** (Excellent Student Paper Award)
 
-- [Confidence-based Reinforcement Learning for Energy Management of a Hybrid Electric Vehicle], **Jingda Wu**, Zhiyu Huang, Junzhi Zhang, Chen Lv, **The 34th International Electric Vehicle Symposium & Exhibition (EVS34), 2021** (Excellent Paper Award)
+- Confidence-based Reinforcement Learning for Energy Management of a Hybrid Electric Vehicle, **Jingda Wu**, Zhiyu Huang, Junzhi Zhang, Chen Lv, **The 34th International Electric Vehicle Symposium & Exhibition (EVS34), 2021** (Excellent Paper Award)
 
 - [Battery-involved energy management for hybrid electric bus based on expert-assistance deep deterministic policy gradient algorithm](https://ieeexplore.ieee.org/abstract/document/9201478), **Jingda Wu**, Zhongbao Wei, Kailong Liu, Zhongyi Quan, Yunwei Li, **IEEE Transactions on Vehicular Technology, 2021** (ESI Highly Cited Paper)
 
