@@ -74,6 +74,8 @@ I focus on the intersection between human-machine learning cooperation and auton
 - *2016.09 - 2019.06*, Master by Research, Mechanical Engineering, Beijing Institute of Technology, Beijing, China
 - *2012.09 - 2016.06*, Bachelor of Engineering, Vehicle Engineering, Beijing Institute of Technology, Beijing, China
 
+# 💻 Internships
+- *2018.05 - 2018.09*, Visiting Scholar, Mechachronic Engineering, University of Waterloo, Canada
 
 # 📚 Academic Services
 - Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE Transactions on Industrial Electronics (TIE), IEEE Transactions on Intelligent Vehicles (TIV), IEEE Transactions on Transportation Electrification (TTE), Applied Energy, Computational Intelligence and Neuroscience, IET Intelligent Transport Systems, Proceedings of IMechE, Part D, Control Engineering Practice, et al.
