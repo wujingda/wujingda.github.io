@@ -68,7 +68,7 @@ I focus on the intersection between reinforcement learning and autonomous electr
 
 # 🎖 Recent Honors and Awards
 - *2022.06* Ambassador, Imperial-TUM-NTU Global Fellows Programme, on behalf of NTU, 2022
-- *2022.03* [2nd Place Winner, IEEE VTS Motor Vehicles Challenge](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851)
+- *2022.03* Winner, IEEE VTS Motor Vehicles Challenge
 - *2021.06* Excellent Student Paper Award in IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021
 - *2021.06* Excellent Paper Award in 34th World Electric Vehicle Symposium & Exhibition (EVS34), 2021
 
