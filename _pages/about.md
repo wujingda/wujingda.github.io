@@ -80,4 +80,3 @@ I focus on the intersection between human-machine learning cooperation and auton
 # 📚 Academic Services
 - Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE Transactions on Industrial Electronics (TIE), IEEE Transactions on Intelligent Vehicles (TIV), IEEE Transactions on Transportation Electrification (TTE), Applied Energy, Computational Intelligence and Neuroscience, IET Intelligent Transport Systems, Proceedings of IMechE, Part D, Control Engineering Practice, et al.
 - Conference Reviewer: IV'22, ITSC'22.
--	Conference Oral Presentations: EVS' 21, DTPI' 21.
