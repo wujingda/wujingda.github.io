@@ -15,7 +15,7 @@ I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engin
 I focus on the intersection between human-machine learning cooperation and autonomous electrified vehicle. My Ph.D. study aims to harness human intelligence to optimize the training cost and performance of reinforcement learning (RL) algorithms. In particular, my research points include behavior decision-making and planning of autonomous vehicles and energy management of electrified vehicles. I have published more than 20 papers in top journals and conferences.
 
 # 🔥 News
-- *2022.06*: &nbsp;🎉🎉 Our paper on reinforcement learning with human guidance has been accepted by IEEE Transactions on Neural Networks and Learning Systems!
+- *2022.06*: &nbsp;🎉🎉 Our paper on reinforcement learning based on proritized human guidance replay has been accepted by IEEE Transactions on Neural Networks and Learning Systems!
 - *2022.05*: &nbsp;🎉🎉 Our paper on human-in-the-loop reinforcement learning has been accepted by Engineering, the official journal of the Chinese Academy of Engineering!
 - *2022.04*: &nbsp;🎉🎉 Our paper on reinforcement learning with expert demonstrations has been accepted by IV 2022!
 
