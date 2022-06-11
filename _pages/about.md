@@ -67,7 +67,7 @@ I focus on the intersection between reinforcement learning and autonomous electr
 - [Continuous reinforcement learning of energy management with deep Q network for a power split hybrid electric bus](https://www.sciencedirect.com/science/article/abs/pii/S0306261918304422), **Jingda Wu**, Hongwen He, Jiankun Peng, Yuecheng Li, Zhanjiang Li, **Applied energy, 2018** (<i>ESI Hot Paper)
 
 # 🎖 Recent Honors and Awards
-- *2022.06* Ambassador, Imperial-TUM-NTU Global Fellows Programme, on behalf of NTU, 2022
+- *2022.06* Ambassador, Imperial-TUM-NTU Global Fellows Programme, 2022
 - *2022.03* Winner, IEEE VTS Motor Vehicles Challenge
 - *2021.06* Excellent Student Paper Award in IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021
 - *2021.06* Excellent Paper Award in 34th World Electric Vehicle Symposium & Exhibition (EVS34), 2021
