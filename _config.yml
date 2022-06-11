@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingda Wu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanyang Technological University"
+  bio              : "Nanyang Technological University (NTU)"
   location         : "Singapore"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wujingda"
+  github           : # "wujingda"
   google_plus      :
   keybase          :
   instagram        :
