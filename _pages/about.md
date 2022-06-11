@@ -73,7 +73,7 @@ I focus on the intersection between reinforcement learning and autonomous electr
 - *2021.06* Excellent Paper Award in 34th World Electric Vehicle Symposium & Exhibition (EVS34), 2021
 
 
-# 📖 Education
+# 📖 Educations
 - *2019.08 - Now*, Doctor of Philosophy, Robotics and Autonomous Systems, Nanyang Technological University, Singapore 
 - *2016.09 - 2019.06*, Master by Research, Mechanical Engineering, Beijing Institute of Technology, Beijing, China
 - *2012.09 - 2016.06*, Bachelor of Engineering, Vehicle Engineering, Beijing Institute of Technology, Beijing, China
