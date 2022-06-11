@@ -19,13 +19,15 @@ I focus on the intersection between human-machine learning cooperation and auton
 - *2022.05*: &nbsp;🎉🎉 Our paper on human-in-the-loop reinforcement learning has been accepted by Engineering, the official journal of the Chinese Academy of Engineering!
 - *2022.04*: &nbsp;🎉🎉 Our paper on reinforcement learning with expert demonstrations has been accepted by IV 2022!
 
+
+
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><img src='images/tnnls_jingda.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Prioritized Experience-based Reinforcement Learning with Human Guidance for Autonomous Driving] (https://arxiv.org/ftp/arxiv/papers/2109/2109.12516.pdf), **Jingda Wu**, Zhiyu Huang, Wenhui Huang, and Chen Lv
+[Prioritized Experience-based Reinforcement Learning with Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2109/2109.12516.pdf), **Jingda Wu**, Zhiyu Huang, Wenhui Huang, and Chen Lv
 
-**IEEE Transactions on Neural Networks and Learning Systems, (Early Access)**
+**IEEE Transactions on Neural Networks and Learning Systems, (Early Access)** \| [**Project**](https://github.com/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving)
 -  We propose a priority experience utilization method in the context of human guidance-based off-policy reinforcement learning (RL) algorithms, in which we establish an advantage measurement to highlight high-value human guidance data over the mixed experience buffer with both human demonstration and RL experience. 
 </div>
 </div>
@@ -33,7 +35,7 @@ I focus on the intersection between human-machine learning cooperation and auton
 <div class='paper-box'><div class='paper-box-image'><img src='images/engineering.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving] (https://arxiv.org/ftp/arxiv/papers/2104/2104.07246.pdf), **Jingda Wu**, Zhiyu Huang, Zhongxu Hu, and Chen Lv
+[Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2104/2104.07246.pdf), **Jingda Wu**, Zhiyu Huang, Zhongxu Hu, and Chen Lv
 
 **Engineering (中国工程院院刊), in press, 2022** \| [**Project**](https://github.com/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning) 
 -  We propose a real-time human guidance-based deep reinforcement learning (Hug-DRL) method for improving policy training performance. The newly designed actor-critic architecture enabled the DRL policy to approaching human guidance, and a 40 subjects-involved human-in-the-loop experimental validation confirm its the superior performance for end-to-end autonomous driving cases. 
@@ -59,11 +61,13 @@ I focus on the intersection between human-machine learning cooperation and auton
 - [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, **Jingda Wu**, Zhiyu Huang, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
 
 - [Reference-free human-automation shared control for obstacle avoidance of automated vehicles](https://ieeexplore.ieee.org/abstract/document/9283287), Chao Huang, Peng Hang, **Jingda Wu**, Anh-Tu Nguyen, Chen Lv, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
-- 
+
 - [Multi-modal sensor fusion-based deep neural network for end-to-end autonomous driving with scene understanding](https://ieeexplore.ieee.org/document/9119447), Zhiyu Huang, Chen Lv, Yang Xing, **Jingda Wu**, **IEEE Sensors Journal, 2020**
 
-# 🎖 Honors and Awards
-- *2022.03* Ambassador, Imperial-TUM-NTU Global Fellows Programme，On behave of NTU, 2022
+- [Continuous reinforcement learning of energy management with deep Q network for a power split hybrid electric bus](), **Jingda Wu**, Hongwen He, Jiankun Peng, Yuecheng Li, Zhanjiang Li, **Applied energy, 2018** (ESI Hot paper)
+
+# 🎖 Recent Honors and Awards
+- *2022.03* Ambassador, Imperial-TUM-NTU Global Fellows Programme, on behalf of NTU, 2022
 - *2022.03* [2nd Place Winner, IEEE VTS Motor Vehicles Challenge](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851)
 - *2021.06* Excellent Student Paper Award in IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021
 - *2021.06* Excellent Paper Award in 34th World Electric Vehicle Symposium & Exhibition (EVS34), 2021
