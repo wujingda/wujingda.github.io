@@ -25,7 +25,7 @@ I focus on the intersection between human-machine learning cooperation and auton
 <div class='paper-box'><div class='paper-box-image'><img src='images/tnnls_jingda.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Prioritized Experience-based Reinforcement Learning with Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2109/2109.12516.pdf), **Jingda Wu**, Zhiyu Huang, Wenhui Huang, and Chen Lv
+[Prioritized Experience-based Reinforcement Learning with Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2109/2109.12516.pdf), **Jingda Wu**, Zhiyu Huang, Wenhui Huang, Chen Lv
 
 **IEEE Transactions on Neural Networks and Learning Systems, (Early Access)** \| [**Project**](https://github.com/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving)
 -  We propose a priority experience utilization method in the context of human guidance-based off-policy reinforcement learning (RL) algorithms, in which we establish an advantage measurement to highlight high-value human guidance data over the mixed experience buffer with both human demonstration and RL experience. 
@@ -35,7 +35,7 @@ I focus on the intersection between human-machine learning cooperation and auton
 <div class='paper-box'><div class='paper-box-image'><img src='images/engineering.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2104/2104.07246.pdf), **Jingda Wu**, Zhiyu Huang, Zhongxu Hu, and Chen Lv
+[Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2104/2104.07246.pdf), **Jingda Wu**, Zhiyu Huang, Zhongxu Hu, Chen Lv
 
 **Engineering (中国工程院院刊), in press, 2022** \| [**Project**](https://github.com/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning) 
 -  We propose a real-time human guidance-based deep reinforcement learning (Hug-DRL) method for improving policy training performance. The newly designed actor-critic architecture enabled the DRL policy to approaching human guidance, and a 40 subjects-involved human-in-the-loop experimental validation confirm its the superior performance for end-to-end autonomous driving cases. 
@@ -45,26 +45,22 @@ I focus on the intersection between human-machine learning cooperation and auton
 <div class='paper-box'><div class='paper-box-image'><img src='images/tiv_jingda.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2106/2106.12194.pdf), **Jingda Wu**, Zhiyu Huang, and Chen Lv
+[Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2106/2106.12194.pdf), **Jingda Wu**, Zhiyu Huang, Chen Lv
 
 **IEEE Transactions on Intelligent Vehicle (Under Minor Revision), 2022**
 - We propose a novel deep neural network-based system for end-to-end autonomous driving, consisting of multimodal sensor fusion, scene understanding, and conditional driving policy modules. 
 </div>
 </div>
 
-- [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, Zhiyu Huang, **Jingda Wu**, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
+- [Digital Twin-enabled Reinforcement Learning for End-to-end Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9540179), **Jingda Wu**, Zhiyu Huang, Peng Hang, Chao Huang, Niels De Boer, Chen Lv, **IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021** (Excellent Student Paper Award)
 
-- [Digital Twin-enabled Reinforcement Learning for End-to-end Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9540179), **Jingda Wu**, Zhiyu Huang, Peng Hang, Chao Huang, Niels De Boer, Chen Lv, **IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021**
+- [Confidence-based Reinforcement Learning for Energy Management of a Hybrid Electric Vehicle], **Jingda Wu**, Zhiyu Huang, Junzhi Zhang, Chen Lv, **The 34th International Electric Vehicle Symposium & Exhibition (EVS34), 2021** (Excellent Paper Award)
 
-- [Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2106/2106.12194.pdf), **Jingda Wu**, Zhiyu Huang, Chen Lv, **arXiv**
+- [Battery-involved energy management for hybrid electric bus based on expert-assistance deep deterministic policy gradient algorithm](https://ieeexplore.ieee.org/abstract/document/9201478), **Jingda Wu**, Zhongbao Wei, Kailong Liu, Zhongyi Quan, Yunwei Li, **IEEE Transactions on Vehicular Technology, 2021** (ESI Highly Cited Paper)
 
-- [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, **Jingda Wu**, Zhiyu Huang, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
+- [Battery thermal-and health-constrained energy management for hybrid electric bus based on soft actor-critic DRL algorithm](https://ieeexplore.ieee.org/abstract/document/9160869), **Jingda Wu**, Zhongbao Wei, Weihan Li, Yu Wang, Yunwei Li, Dirk Uwe Sauer, **IEEE Transactions on Industrial Informatics, 2020** (ESI Hot Paper)
 
-- [Reference-free human-automation shared control for obstacle avoidance of automated vehicles](https://ieeexplore.ieee.org/abstract/document/9283287), Chao Huang, Peng Hang, **Jingda Wu**, Anh-Tu Nguyen, Chen Lv, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
-
-- [Multi-modal sensor fusion-based deep neural network for end-to-end autonomous driving with scene understanding](https://ieeexplore.ieee.org/document/9119447), Zhiyu Huang, Chen Lv, Yang Xing, **Jingda Wu**, **IEEE Sensors Journal, 2020**
-
-- [Continuous reinforcement learning of energy management with deep Q network for a power split hybrid electric bus](), **Jingda Wu**, Hongwen He, Jiankun Peng, Yuecheng Li, Zhanjiang Li, **Applied energy, 2018** (ESI Hot paper)
+- [Continuous reinforcement learning of energy management with deep Q network for a power split hybrid electric bus](https://www.sciencedirect.com/science/article/abs/pii/S0306261918304422), **Jingda Wu**, Hongwen He, Jiankun Peng, Yuecheng Li, Zhanjiang Li, **Applied energy, 2018** (ESI Hot Paper)
 
 # 🎖 Recent Honors and Awards
 - *2022.03* Ambassador, Imperial-TUM-NTU Global Fellows Programme, on behalf of NTU, 2022
