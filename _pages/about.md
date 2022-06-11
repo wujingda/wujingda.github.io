@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engineering at Nanyang Technological University (NTU). I am working in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan), and supervised by [Prof Chen Lyu](https://scholar.google.com/citations?user=UKVs2CEAAAAJ&hl=en).
+I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engineering at Nanyang Technological University (NTU). I am working in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan), and supervised by [Prof Chen Lv](https://scholar.google.com/citations?user=UKVs2CEAAAAJ&hl=en).
 
 I focus on the intersection between human-machine learning cooperation and autonomous electrified vehicle. My Ph.D. study aims to harness human intelligence to optimize the training cost and performance of reinforcement learning (RL) algorithms. In particular, my research points include behavior decision-making and planning of autonomous vehicles and energy management of electrified vehicles. I have published more than 20 papers in top journals and conferences.
 
