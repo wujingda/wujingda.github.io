@@ -38,7 +38,7 @@ I focus on the intersection between human-machine learning cooperation and auton
 [Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2104/2104.07246.pdf), **Jingda Wu**, Zhiyu Huang, Zhongxu Hu, Chen Lv
 
 **Engineering (中国工程院院刊), in press, 2022** \| [**Project**](https://github.com/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning) 
--  We propose a real-time human guidance-based deep reinforcement learning (Hug-DRL) method for improving policy training performance. The newly designed actor-critic architecture enabled the DRL policy to approaching human guidance, and a 40 subjects-involved human-in-the-loop experimental validation confirm its the superior performance for end-to-end autonomous driving cases. 
+-  We propose a real-time human guidance-based deep reinforcement learning method for improving policy training performance. The newly designed actor-critic architecture enabled the DRL policy to approach human guidance, and a 40 subjects-involved human-in-the-loop experimental validation confirms its superior performance for end-to-end autonomous driving cases.
 </div>
 </div>
 
@@ -48,7 +48,7 @@ I focus on the intersection between human-machine learning cooperation and auton
 [Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2106/2106.12194.pdf), **Jingda Wu**, Zhiyu Huang, Chen Lv
 
 **IEEE Transactions on Intelligent Vehicle (Under Minor Revision), 2022**
-- we propose a novel uncertainty-aware model-based RL method to improve the RL performance in the context of highly uncertain environment model. Base on an action-conditioned ensemble model, we develop an adaptive truncation approach to determine the utilization extent of the environment model and improving RL’s training efficiency and performance. 
+- we propose an uncertainty-aware model-based RL method to improve the performance in the context of highly uncertain environment models. Based on an action-conditioned ensemble model, we develop an adaptive truncation approach to determine the utilization extent of the environment model and improve RL’s training efficiency and performance. 
 
 </div>
 </div>
