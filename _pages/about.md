@@ -27,7 +27,7 @@ I focus on the intersection between reinforcement learning and autonomous electr
 
 [Prioritized Experience-based Reinforcement Learning with Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2109/2109.12516.pdf), **Jingda Wu**, Zhiyu Huang, Wenhui Huang, Chen Lv
 
-**IEEE Transactions on Neural Networks and Learning Systems, (Early Access)** \| [**Project**](https://github.com/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving)
+**IEEE Transactions on Neural Networks and Learning Systems** \| [**Project**](https://github.com/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving)
 -  We propose a priority experience utilization method in the context of human guidance-based off-policy reinforcement learning (RL) algorithms, in which we establish an advantage measurement to highlight high-value human guidance data over the mixed experience buffer with both human demonstration and RL experience. 
 </div>
 </div>
@@ -67,7 +67,6 @@ I focus on the intersection between reinforcement learning and autonomous electr
 - [Continuous reinforcement learning of energy management with deep Q network for a power split hybrid electric bus](https://www.sciencedirect.com/science/article/abs/pii/S0306261918304422), **Jingda Wu**, Hongwen He, Jiankun Peng, Yuecheng Li, Zhanjiang Li, **Applied energy, 2018** (<i>ESI Hot Paper)
 
 # 🎖 Recent Honors and Awards
-- *2022.06* Ambassador, Imperial-TUM-NTU Global Fellows Programme, 2022
 - *2022.03* Winner, IEEE VTS Motor Vehicles Challenge
 - *2021.06* Excellent Student Paper Award in IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021
 - *2021.06* Excellent Paper Award in 34th World Electric Vehicle Symposium & Exhibition (EVS34), 2021
