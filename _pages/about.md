@@ -12,13 +12,13 @@ redirect_from:
 
 I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engineering at Nanyang Technological University (NTU). I am working in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan), and supervised by [Prof Chen Lv](https://scholar.google.com/citations?user=UKVs2CEAAAAJ&hl=en).
 
-I focus on the intersection between reinforcement learning and autonomous electrified vehicle. My Ph.D. study aims to harness human intelligence to optimize the training cost and performance of reinforcement learning algorithms. In particular, my research points include behavior decision-making and planning of autonomous vehicles and energy management of electrified vehicles. I have published more than 20 papers in top journals and conferences.
+I focus on the intersection between reinforcement learning (RL) and autonomous electrified vehicle. My Ph.D. study aims to harness human intelligence to optimize the training cost and performance of reinforcement learning algorithms. In particular, my research points include behavior decision-making and planning of autonomous vehicles and energy management of electrified vehicles. I have published more than 20 papers in top journals and conferences.
 
 # 🔥 News
 - *2022.06*: &nbsp;🎉🎉 Two papers on behavioral decision-making based on safe RL and graph RL have been accepted by ITSC 2022!
-- *2022.06*: &nbsp;🎉🎉 Our paper on reinforcement learning based on proritized human guidance replay has been accepted by IEEE Transactions on Neural Networks and Learning Systems!
-- *2022.05*: &nbsp;🎉🎉 Our paper on human-in-the-loop reinforcement learning has been accepted by Engineering, the official journal of the Chinese Academy of Engineering!
-- *2022.04*: &nbsp;🎉🎉 Our paper on reinforcement learning with expert demonstrations has been accepted by IV 2022!
+- *2022.06*: &nbsp;🎉🎉 Our paper on RL with prioritized human guidance replay has been accepted by IEEE Transactions on Neural Networks and Learning Systems!
+- *2022.05*: &nbsp;🎉🎉 Our paper on human-in-the-loop RL has been accepted by Engineering, the official journal of the Chinese Academy of Engineering!
+- *2022.04*: &nbsp;🎉🎉 Our paper on RL with expert demonstrations has been accepted by IV 2022!
 
 
 
