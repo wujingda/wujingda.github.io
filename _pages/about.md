@@ -49,7 +49,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous e
 [Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2106/2106.12194.pdf), **Jingda Wu**, Zhiyu Huang, Chen Lv
 
 **IEEE Transactions on Intelligent Vehicle, 2022**
-- we propose an uncertainty-aware model-based RL method to improve the performance in the context of highly uncertain environment models. Based on an action-conditioned ensemble model, we develop an adaptive truncation approach to determine the utilization extent of the environment model and improve RL’s training efficiency and performance. 
+- We propose an uncertainty-aware model-based RL method to improve the performance in the context of highly uncertain environment models. Based on an action-conditioned ensemble model, we develop an adaptive truncation approach to determine the utilization extent of the environment model and improve RL’s training efficiency and performance. 
 
 </div>
 </div>
