@@ -15,6 +15,7 @@ I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engin
 I focus on the intersection between reinforcement learning (RL) and autonomous electrified vehicle. My Ph.D. study aims to harness human intelligence to optimize the training cost and performance of reinforcement learning algorithms. In particular, my research points include behavior decision-making and planning of autonomous vehicles and energy management of electrified vehicles. I have published more than 20 papers in top journals and conferences.
 
 # 🔥 News
+- *2022.07*: &nbsp;🎉🎉 I was certified in the 2022 Imperial-TUM-NTU Global Fellows Programme: The role of robotics in well-being and the workplace!
 - *2022.06*: &nbsp;🎉🎉 Two papers on behavioral decision-making based on safe RL and graph RL have been accepted by ITSC 2022!
 - *2022.06*: &nbsp;🎉🎉 Our paper on RL with prioritized human guidance replay has been accepted by IEEE Transactions on Neural Networks and Learning Systems!
 - *2022.05*: &nbsp;🎉🎉 Our paper on human-in-the-loop RL has been accepted by Engineering, the official journal of the Chinese Academy of Engineering!
@@ -53,7 +54,8 @@ I focus on the intersection between reinforcement learning (RL) and autonomous e
 
 </div>
 </div>
-
+- [Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning], **Jingda Wu**, Wenhui Huang, Niels de Boer, Yanghui Mo, Xiangkun He, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
+- [Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Mixed Traffic Environments], Qi Liu, Zirui Li, Xueyuan Li, **Jingda Wu**, Shihua Yuan, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
 - [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, Zhiyu Huang, **Jingda Wu**, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
 - [Efficient Deep Reinforcement Learning with Imitative Expert Priors for Autonomous Driving](https://arxiv.org/pdf/2103.10690.pdf), Zhiyu Huang, **Jingda Wu**, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2022**
 - [Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning](https://arxiv.org/pdf/2010.03118.pdf), Zhiyu Huang, **Jingda Wu**, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2021**
@@ -68,6 +70,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous e
 - [Continuous reinforcement learning of energy management with deep Q network for a power split hybrid electric bus](https://www.sciencedirect.com/science/article/abs/pii/S0306261918304422), **Jingda Wu**, Hongwen He, Jiankun Peng, Yuecheng Li, Zhanjiang Li, **Applied energy, 2018** (<i>ESI Hot Paper)
 
 # 🎖 Recent Honors and Awards
+- *2022.07* Participant, Imperial-TUM-NTU Global Fellows Programme
 - *2022.03* Winner, IEEE VTS Motor Vehicles Challenge
 - *2021.06* Excellent Student Paper Award in IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021
 - *2021.06* Excellent Paper Award in 34th World Electric Vehicle Symposium & Exhibition (EVS34), 2021
