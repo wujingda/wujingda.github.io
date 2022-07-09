@@ -39,7 +39,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous e
 
 [Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2104/2104.07246.pdf), **Jingda Wu**, Zhiyu Huang, Zhongxu Hu, Chen Lv
 
-**Engineering (中国工程院院刊), in press, 2022** \| [**Project**](https://github.com/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning) 
+**Engineering, in press, 2022** \| [**Project**](https://github.com/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning) 
 -  We propose a real-time human guidance-based deep reinforcement learning method for improving policy training performance. The newly designed actor-critic architecture enabled the DRL policy to approach human guidance, and a 40 subjects-involved human-in-the-loop experimental validation confirms its superior performance for end-to-end autonomous driving cases.
 </div>
 </div>
@@ -54,8 +54,8 @@ I focus on the intersection between reinforcement learning (RL) and autonomous e
 
 </div>
 </div>
-- [Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning], **Jingda Wu**, Wenhui Huang, Niels de Boer, Yanghui Mo, Xiangkun He, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
-- [Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Mixed Traffic Environments], Qi Liu, Zirui Li, Xueyuan Li, **Jingda Wu**, Shihua Yuan, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
+- Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning, **Jingda Wu**, Wenhui Huang, Niels de Boer, Yanghui Mo, Xiangkun He, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
+- Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Mixed Traffic Environments, Qi Liu, Zirui Li, Xueyuan Li, **Jingda Wu**, Shihua Yuan, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
 - [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, Zhiyu Huang, **Jingda Wu**, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
 - [Efficient Deep Reinforcement Learning with Imitative Expert Priors for Autonomous Driving](https://arxiv.org/pdf/2103.10690.pdf), Zhiyu Huang, **Jingda Wu**, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2022**
 - [Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning](https://arxiv.org/pdf/2010.03118.pdf), Zhiyu Huang, **Jingda Wu**, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2021**
