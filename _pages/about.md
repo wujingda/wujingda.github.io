@@ -27,7 +27,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous e
 <div class='paper-box'><div class='paper-box-image'><img src='images/tnnls_jingda.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Prioritized Experience-based Reinforcement Learning with Human Guidance for Autonomous Driving](https://arxiv.org/abs/2109.12516), **Jingda Wu**, Zhiyu Huang, Wenhui Huang, Chen Lv
+[Prioritized Experience-based Reinforcement Learning with Human Guidance for Autonomous Driving](https://arxiv.org/pdf/2109.12516.pdf), **Jingda Wu**, Zhiyu Huang, Wenhui Huang, Chen Lv
 
 **IEEE Transactions on Neural Networks and Learning Systems, 2022** \| [**Project**](https://github.com/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving)
 -  We propose a priority experience utilization method in the context of human guidance-based off-policy reinforcement learning (RL) algorithms, in which we establish an advantage measurement to highlight high-value human guidance data over the mixed experience buffer with both human demonstration and RL experience. 
@@ -37,7 +37,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous e
 <div class='paper-box'><div class='paper-box-image'><img src='images/engineering.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2104/2104.07246.pdf), **Jingda Wu**, Zhiyu Huang, Zhongxu Hu, Chen Lv
+[Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://www.sciencedirect.com/science/article/pii/S2095809922004878), **Jingda Wu**, Zhiyu Huang, Zhongxu Hu, Chen Lv
 
 **Engineering, 2022** \| [**Project**](https://github.com/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning) 
 -  We propose a real-time human guidance-based deep reinforcement learning method for improving policy training performance. The newly designed actor-critic architecture enabled the DRL policy to approach human guidance, and a 40 subjects-involved human-in-the-loop experimental validation confirms its superior performance for end-to-end autonomous driving cases.
