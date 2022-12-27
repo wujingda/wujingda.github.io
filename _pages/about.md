@@ -15,6 +15,8 @@ I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engin
 I focus on the intersection between reinforcement learning (RL) and autonomous electrified vehicle. My Ph.D. study aims to harness human intelligence to optimize the training cost and performance of reinforcement learning algorithms. In particular, my research points include behavior decision-making and planning of autonomous vehicles and energy management of electrified vehicles. I have published more than 20 papers in top journals and conferences.
 
 # 🔥 News
+- *2022.12*: &nbsp;🎉🎉 Our team won the 2nd Place in the Algorithm Track at Aliyun "Future Car" Smart Scenario Innovation Challenge [official site](https://tianchi.aliyun.com/competition/entrance/531996/rankingList).
+- *2022.12*: &nbsp;🎉🎉 Our team won the Most Innovative Award and 3rd Place in both Track 1 and Track 2 at NeurIPS Driving SMARTS Competition! Check out our presentation on predictive decision-making at the [official competition site](https://smarts-project.github.io/).
 - *2022.07*: &nbsp;🎉🎉 I was certified in the 2022 Imperial-TUM-NTU Global Fellows Programme: The role of robotics in well-being and the workplace!
 - *2022.06*: &nbsp;🎉🎉 Two papers on behavioral decision-making based on safe RL and graph RL have been accepted by ITSC 2022!
 - *2022.06*: &nbsp;🎉🎉 Our paper on RL with prioritized human guidance replay has been accepted by IEEE Transactions on Neural Networks and Learning Systems!
@@ -70,8 +72,10 @@ I focus on the intersection between reinforcement learning (RL) and autonomous e
 - [Continuous reinforcement learning of energy management with deep Q network for a power split hybrid electric bus](https://www.sciencedirect.com/science/article/abs/pii/S0306261918304422), **Jingda Wu**, Hongwen He, Jiankun Peng, Yuecheng Li, Zhanjiang Li, **Applied energy, 2018** (<i>ESI Hot Paper)
 
 # 🎖 Recent Honors and Awards
+- *2022.12* 2nd Place Winner at [Algorithm Track](https://tianchi.aliyun.com/competition/entrance/531996/rankingList), Aliyun "Future Car" Smart Scenario Innovation Challenge
+- *2022.12* 3rd Place Winner at [Track 1 and Track 2, Most Innovative Award, NeurIPS Driving SMARTS Competition](https://smarts-project.github.io/), NeurIPS Competition Track
 - *2022.07* Participant, Imperial-TUM-NTU Global Fellows Programme
-- *2022.03* Winner, IEEE VTS Motor Vehicles Challenge
+- *2022.03* Winner, IEEE [VTS Motor Vehicles](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851) Challenge
 - *2021.06* Excellent Student Paper Award in IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021
 - *2021.06* Excellent Paper Award in 34th World Electric Vehicle Symposium & Exhibition (EVS34), 2021
 
