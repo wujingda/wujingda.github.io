@@ -15,7 +15,6 @@ I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engin
 I focus on the intersection between reinforcement learning (RL) and autonomous electrified vehicle. My Ph.D. study aims to harness human intelligence to optimize the training cost and performance of reinforcement learning algorithms. In particular, my research points include behavior decision-making and planning of autonomous vehicles and energy management of electrified vehicles. I have published more than 20 papers in top journals and conferences.
 
 # 🔥 News
-- *2023.02*: &nbsp;🎉🎉 We raised a special session "Interaction, Cooperation and Competition of Autonomous Vehicles" at Journal of Advanced Transportation, see details via this [link](https://www.hindawi.com/journals/jat/si/194261/). Please feel free to submit your work if you are interested.
 - *2022.12*: &nbsp;🎉🎉 Our team won the 2nd Place in the Algorithm Track at Aliyun "Future Car" Smart Scenario Innovation Challenge [official site](https://tianchi.aliyun.com/competition/entrance/531996/rankingList).
 - *2022.12*: &nbsp;🎉🎉 Our team won the Most Innovative Award and 3rd Place in both Track 1 and Track 2 at NeurIPS Driving SMARTS Competition! Check out our presentation on predictive decision-making at the [official competition site](https://smarts-project.github.io/).
 - *2022.07*: &nbsp;🎉🎉 I was certified in the 2022 Imperial-TUM-NTU Global Fellows Programme: The role of robotics in well-being and the workplace!
