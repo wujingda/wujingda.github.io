@@ -93,8 +93,8 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 
 
 
-- [Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9921872), **Jingda Wu**, Wenhui Huang, Niels de Boer, Yanghui Mo, Xiangkun He, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
-- [Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Mixed Traffic Environments](https://arxiv.org/pdf/2201.12776v1.pdf), Qi Liu, Zirui Li, Xueyuan Li, **Jingda Wu**, Shihua Yuan, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
+- [Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9921872), **Jingda Wu**, Wenhui Huang, Niels de Boer, Yanghui Mo, Xiangkun He, Chen Lv, **<span style="color:blue;">IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
+- [Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Mixed Traffic Environments](https://arxiv.org/pdf/2201.12776v1.pdf), Qi Liu, Zirui Li, Xueyuan Li, **Jingda Wu**, Shihua Yuan, **<span style="color:blue;">IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
 - [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, Zhiyu Huang, **Jingda Wu**, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
 - [Efficient Deep Reinforcement Learning with Imitative Expert Priors for Autonomous Driving](https://arxiv.org/pdf/2103.10690.pdf), Zhiyu Huang, **Jingda Wu**, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2022**
 - [Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning](https://arxiv.org/pdf/2010.03118.pdf), Zhiyu Huang, **Jingda Wu**, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2021**
