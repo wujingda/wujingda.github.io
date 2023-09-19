@@ -14,12 +14,15 @@ I am currently a Postdoc researcher at the Hong Kong Polytechnic University. I r
 
 I focus on the intersection between reinforcement learning (RL) and autonomous vehicles. My study aims to harness human intelligence to optimize the training cost and performance of reinforcement learning algorithms. In particular, my research points include behavior planning of autonomous vehicles and energy management of electrified vehicles. I have published more than 30 papers in top journals and conferences.
 
+
 # 🔥 News
 - *2022.09*: &nbsp;🎉🎉 I will give a talk at the IEEE ITSC 2023 Workshop with the theme of human-guided reinforcement learning (24 September 2023 @ Bilbao, Bizkaia, Spain).
+- *2022.09*: &nbsp;🎉🎉 Our paper on efficient reinforcement learning through preference-guided stochastic exploration has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS)!
 - *2022.08*: &nbsp;🎉🎉 Our team won the 2nd place award in Track 1, IEEE ITSS Student Competition in Pedestrian Behavior Prediction! We will give a talk at the IEEE ITSC 2023 Workshop.
 - *2022.07*: &nbsp;🎉🎉 Our papers on predictive decision-making/planning have been accepted by the International Conference on Intelligent Transportation Systems (ITSC)!
 - *2022.06*: &nbsp;🎉🎉 Our paper on human-guided reinforcement learning for autonomous navigation has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
 - *2022.06*: &nbsp;🎉🎉 Our paper on differentiable integrated prediction and planning has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS)!
+- *2022.05*: &nbsp;🎉🎉 Our paper on driver cognitive workload recognition has been accepted by IEEE Transactions on Industrial Electronics (TIE)!
 - *2022.04*: &nbsp;🎉🎉 Our paper on energy-efficient behavioral planning of autonomous vehicles has been accepted by IEEE Transactions on Transportation Electrification (TTE)!
 - *2022.03*: &nbsp;🎉🎉 Our paper on combining conditional motion prediction, inverse RL, and behavior planning has been accepted by IEEE Transactions on Intelligent Transportation Systems (TITS)!
 - *2022.12*: &nbsp;🎉🎉 Our team won the 2nd Place in the Algorithm Track at Aliyun "Future Car" Smart Scenario Innovation Challenge [official site](https://tianchi.aliyun.com/competition/entrance/531996/rankingList).
@@ -87,6 +90,9 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 
 </div>
 </div>
+
+
+
 - [Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9921872), **Jingda Wu**, Wenhui Huang, Niels de Boer, Yanghui Mo, Xiangkun He, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
 - [Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Mixed Traffic Environments](https://arxiv.org/pdf/2201.12776v1.pdf), Qi Liu, Zirui Li, Xueyuan Li, **Jingda Wu**, Shihua Yuan, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
 - [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, Zhiyu Huang, **Jingda Wu**, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
