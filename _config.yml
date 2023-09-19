@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingda Wu"
-description              : "Ph.D. candidate at NTU. Focusing on reinforcement learning and behavior planning of automated driving."
+description              : "Focusing on reinforcement learning and behavior planning of automated driving."
 repository               : "wujingda/wujingda.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingda Wu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanyang Technological University (NTU)"
-  location         : "Singapore"
+  bio              : "Hong Kong Polytechnic University"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "jingda001@e.ntu.edu.sg"
+  email            : "jimmywu0917@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Jingda-Wu"
   uri              :
   bitbucket        :
