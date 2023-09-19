@@ -10,31 +10,59 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engineering at Nanyang Technological University (NTU). I am working in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan), and supervised by [Prof Chen Lv](https://scholar.google.com/citations?user=UKVs2CEAAAAJ&hl=en).
+I am currently a Postdoc researcher at the Hong Kong Polytechnic University. I received my Ph.D. degree from Nanyang Technological University (NTU) and was supervised by [Prof Chen Lv](https://scholar.google.com/citations?user=UKVs2CEAAAAJ&hl=en).
 
-I focus on the intersection between reinforcement learning (RL) and autonomous electrified vehicle. My Ph.D. study aims to harness human intelligence to optimize the training cost and performance of reinforcement learning algorithms. In particular, my research points include behavior decision-making and planning of autonomous vehicles and energy management of electrified vehicles. I have published more than 20 papers in top journals and conferences.
+I focus on the intersection between reinforcement learning (RL) and autonomous vehicles. My Ph.D. study aims to harness human intelligence to optimize the training cost and performance of reinforcement learning algorithms. In particular, my research points include behavior decision-making and planning of autonomous vehicles and energy management of electrified vehicles. I have published more than 30 papers in top journals and conferences.
 
 # 🔥 News
+- *2022.09*: &nbsp;🎉🎉 I will give a talk at the IEEE ITSC 2023 Workshop with the theme of human-guided reinforcement learning (24 September 2023 @ Bilbao, Bizkaia, Spain).
+- *2022.08*: &nbsp;🎉🎉 Our team won the 2nd place award in Track 1, IEEE ITSS Student Competition in Pedestrian Behavior Prediction! We will give a talk at the IEEE ITSC 2023 Workshop.
+- *2022.07*: &nbsp;🎉🎉 Our papers on predictive decision-making/planning have been accepted by the International Conference on Intelligent Transportation Systems (ITSC)!
+- *2022.06*: &nbsp;🎉🎉 Our paper on human-guided reinforcement learning for autonomous navigation has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
+- *2022.06*: &nbsp;🎉🎉 Our paper on differentiable integrated prediction and planning has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS)!
+- *2022.04*: &nbsp;🎉🎉 Our paper on energy-efficient behavioral planning of autonomous vehicles has been accepted by IEEE Transactions on Transportation Electrification (TTE)!
+- *2022.03*: &nbsp;🎉🎉 Our paper on combining conditional motion prediction, inverse RL, and behavior planning has been accepted by IEEE Transactions on Intelligent Transportation Systems (TITS)!
 - *2022.12*: &nbsp;🎉🎉 Our team won the 2nd Place in the Algorithm Track at Aliyun "Future Car" Smart Scenario Innovation Challenge [official site](https://tianchi.aliyun.com/competition/entrance/531996/rankingList).
 - *2022.12*: &nbsp;🎉🎉 Our team won the Most Innovative Award and 3rd Place in both Track 1 and Track 2 at NeurIPS Driving SMARTS Competition! Check out our presentation on predictive decision-making at the [official competition site](https://smarts-project.github.io/).
 - *2022.07*: &nbsp;🎉🎉 I was certified in the 2022 Imperial-TUM-NTU Global Fellows Programme: The role of robotics in well-being and the workplace!
 - *2022.06*: &nbsp;🎉🎉 Two papers on behavioral decision-making based on safe RL and graph RL have been accepted by ITSC 2022!
-- *2022.06*: &nbsp;🎉🎉 Our paper on RL with prioritized human guidance replay has been accepted by IEEE Transactions on Neural Networks and Learning Systems!
+- *2022.06*: &nbsp;🎉🎉 Our paper on RL with prioritized human guidance replay has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS)!
 - *2022.05*: &nbsp;🎉🎉 Our paper on human-in-the-loop RL has been accepted by Engineering, the official journal of the Chinese Academy of Engineering!
 - *2022.04*: &nbsp;🎉🎉 Our paper on RL with expert demonstrations has been accepted by IV 2022!
 
 
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><img src='images/tnnls_jingda.png' alt="sym" width="100%"></div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/png_tpami.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
+[Human-guided Reinforcement Learning with Sim-to-real Transfer for Autonomous Navigation](https://www.researchgate.net/publication/373907062_Human-Guided_Reinforcement_Learning_With_Sim-to-Real_Transfer_for_Autonomous_Navigation), **Jingda Wu**, Yanxin Zhou, Haohan Yang, Zhiyu Huang, Chen Lv
+
+**IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023** \| [**Project**](https://wujingda.github.io/Multi-Hug-RL/)
+-  We propose a human-guided RL framework for UGVs, incorporating a series of human guidance mechanisms to enhance RL's efficiency and effectiveness during both simulations and real-world experiments. The developed method demonstrates improved performance in goal-reaching and safety while navigating in diverse environments using tiny neural networks and image inputs, and showcases favorable physical fine-tuning ability via online human guidance.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/png_tte.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Reinforcement Learning based Energy-efficient Decision-making for Autonomous Electric Vehicle in Dynamic Traffic Environments](https://ieeexplore.ieee.org/abstract/document/10164154), **Jingda Wu**, Ziyou Song, Chen Lv
+
+**IEEE Transactions on Transportation Electrification, 2023**
+- We propose a deep RL strategy for autonomous electrified vehicles (EVs) that takes as input the bird's-eye-view (BEV) images and enhances energy efficiency through smart lane-changing and car-following behaviors, incorporating a safety system for safer lane changes. Simulations show the strategy improves energy economy without compromising safety or traffic efficiency.
+
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/tnnls_jingda.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+  
 [Prioritized Experience-based Reinforcement Learning with Human Guidance for Autonomous Driving](https://arxiv.org/pdf/2109.12516.pdf), **Jingda Wu**, Zhiyu Huang, Wenhui Huang, Chen Lv
 
 **IEEE Transactions on Neural Networks and Learning Systems, 2022** \| [**Project**](https://github.com/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving)
 -  We propose a priority experience utilization method in the context of human guidance-based off-policy reinforcement learning (RL) algorithms, in which we establish an advantage measurement to highlight high-value human guidance data over the mixed experience buffer with both human demonstration and RL experience. 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/engineering.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -45,6 +73,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous e
 -  We propose a real-time human guidance-based deep reinforcement learning method for improving policy training performance. The newly designed actor-critic architecture enabled the DRL policy to approach human guidance, and a 40 subjects-involved human-in-the-loop experimental validation confirms its superior performance for end-to-end autonomous driving cases.
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/tiv_jingda.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
