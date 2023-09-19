@@ -159,7 +159,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 - IEEE Transactions on Intelligent Vehicles 
 - IEEE Transactions on Industrial Electronics
 - IEEE Transactions on Transportation Electrification
-- IEEE Transactions on IEEE Transactions on Automation Science and Engineering
+- IEEE Transactions on Automation Science and Engineering
 - IEEE Transactions on Cognitive and Developmental Systems
 - IEEE Internet of Things Journal
 - IEEE/CAA Journal of Automatica Sinica
