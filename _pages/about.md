@@ -92,36 +92,37 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 </div>
 </div>
 
-- Real-time driver cognitive workload recognition: attention-enabled learning with multimodal information fusion. Haohan Yang, **Jingda Wu**, Zhongxu Hu, Chen Lv.  <span style="color:green;">IEEE Transactions on Industrial Electronics<span>, 2023
+- Real-time driver cognitive workload recognition: attention-enabled learning with multimodal information fusion. Haohan Yang, **Jingda Wu**, Zhongxu Hu, Chen Lv.  <span style="color:green;">IEEE TIE<span>, 2023
 
-- Sampling Efficient Deep Reinforcement Learning through Preference-Guided Stochastic Exploration. Wenhui Huang, Cong Zhang, **Jingda Wu**, Xiangkun He, Jie Zhang, Chen Lv.  <span style="color:green;">IEEE Transactions on Neural Networks and Learning Systems<span>, 2023
+- Sampling Efficient Deep Reinforcement Learning through Preference-Guided Stochastic Exploration. Wenhui Huang, Cong Zhang, **Jingda Wu**, Xiangkun He, Jie Zhang, Chen Lv.  <span style="color:green;">IEEE TNNLS<span>, 2023
 
-- Differentiable integrated motion prediction and planning with learnable cost function for autonomous driving. Zhiyu Huang, Haochen Liu, **Jingda Wu**, Chen Lv.  <span style="color:green;">IEEE Transactions on Neural Networks and Learning Systems<span>, 2023
+- Differentiable integrated motion prediction and planning with learnable cost function for autonomous driving. Zhiyu Huang, Haochen Liu, **Jingda Wu**, Chen Lv.  <span style="color:green;">IEEE TNNLS<span>, 2023
 
-- Conditional predictive behavior planning with inverse reinforcement learning for human-like autonomous driving. Zhiyu Huang, Haochen Liu, **Jingda Wu**, Chen Lv. <span style="color:green;">IEEE Transactions on Intelligent Transportation Systems<span>, 2023
+- Conditional predictive behavior planning with inverse reinforcement learning for human-like autonomous driving. Zhiyu Huang, Haochen Liu, **Jingda Wu**, Chen Lv. <span style="color:green;">IEEE TITS<span>, 2023
 
-- [Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9921872), **Jingda Wu**, Wenhui Huang, Niels de Boer, Yanghui Mo, Xiangkun He, Chen Lv, <span style="color:green;">IEEE International Conference on Intelligent Transportation Systems (ITSC)<span>, 2022
+- [Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9921872), **Jingda Wu**, Wenhui Huang, Niels de Boer, Yanghui Mo, Xiangkun He, Chen Lv, <span style="color:green;">IEEE ITSC<span>, 2022
   
-- [Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9921872), **Jingda Wu**, Wenhui Huang, Niels de Boer, Yanghui Mo, Xiangkun He, Chen Lv, <span style="color:green;">IEEE International Conference on Intelligent Transportation Systems (ITSC)<span>, 2022
+- [Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9921872), **Jingda Wu**, Wenhui Huang, Niels de Boer, Yanghui Mo, Xiangkun He, Chen Lv, <span style="color:green;">IEEE ITSC<span>, 2022
   
-- [Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Mixed Traffic Environments](https://arxiv.org/pdf/2201.12776v1.pdf), Qi Liu, Zirui Li, Xueyuan Li, **Jingda Wu**, Shihua Yuan, <span style="color:green;">IEEE International Conference on Intelligent Transportation Systems (ITSC)<span>, 2022
+- [Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Mixed Traffic Environments](https://arxiv.org/pdf/2201.12776v1.pdf), Qi Liu, Zirui Li, Xueyuan Li, **Jingda Wu**, Shihua Yuan, <span style="color:green;">IEEE ITSC<span>, 2022
   
-- [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, Zhiyu Huang, **Jingda Wu**, Chen Lv, <span style="color:green;">IEEE Intelligent Vehicles Symposium (IV)<span>, 2022
+- [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, Zhiyu Huang, **Jingda Wu**, Chen Lv, <span style="color:green;">IEEE IV<span>, 2022
   
-- [Efficient Deep Reinforcement Learning with Imitative Expert Priors for Autonomous Driving](https://arxiv.org/pdf/2103.10690.pdf), Zhiyu Huang, **Jingda Wu**, Chen Lv, <span style="color:green;">IEEE Transactions on Neural Networks and Learning Systems<span>, 2022
-- [Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning](https://arxiv.org/pdf/2010.03118.pdf), Zhiyu Huang, **Jingda Wu**, Chen Lv, <span style="color:green;">IEEE Transactions on Intelligent Transportation Systems<span>, 2021
+- [Efficient Deep Reinforcement Learning with Imitative Expert Priors for Autonomous Driving](https://arxiv.org/pdf/2103.10690.pdf), Zhiyu Huang, **Jingda Wu**, Chen Lv, <span style="color:green;">IEEE TNNLS<span>, 2022
   
-- [Deep deterministic policy gradient-drl enabled multiphysics-constrained fast charging of lithium-ion battery](https://ieeexplore.ieee.org/abstract/document/9398552/), Zhongbao Wei, Zhongyi Quan, **Jingda Wu***, Yang Li, Josep Pou, Hao Zhong, <span style="color:green;">IEEE Transactions on Industrial Electronics<span>, 2021 (<i>ESI Hot Paper)
+- [Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning](https://arxiv.org/pdf/2010.03118.pdf), Zhiyu Huang, **Jingda Wu**, Chen Lv, <span style="color:green;">IEEE TITS<span>, 2021
   
-- [Digital Twin-enabled Reinforcement Learning for End-to-end Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9540179), **Jingda Wu**, Zhiyu Huang, Peng Hang, Chao Huang, Niels De Boer, Chen Lv, <span style="color:green;">IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI)<span>, 2021 (<i><span style="color:red;">Outstanding Student Paper Award)
+- [Deep deterministic policy gradient-drl enabled multiphysics-constrained fast charging of lithium-ion battery](https://ieeexplore.ieee.org/abstract/document/9398552/), Zhongbao Wei, Zhongyi Quan, **Jingda Wu***, Yang Li, Josep Pou, Hao Zhong, <span style="color:green;">IEEE TIE<span>, 2021 (<i>ESI Hot Paper)
   
-- [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, **Jingda Wu**, Zhiyu Huang, Chen Lv, <span style="color:green;">IEEE Transactions on Vehicular Technology<span>, 2021
+- [Digital Twin-enabled Reinforcement Learning for End-to-end Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9540179), **Jingda Wu**, Zhiyu Huang, Peng Hang, Chao Huang, Niels De Boer, Chen Lv, <span style="color:green;">IEEE DTPI<span>, 2021 (<i><span style="color:red;">Outstanding Student Paper Award)
   
-- Confidence-based Reinforcement Learning for Energy Management of a Hybrid Electric Vehicle, **Jingda Wu**, Zhiyu Huang, Junzhi Zhang, Chen Lv, <span style="color:green;">The 34th International Electric Vehicle Symposium & Exhibition (EVS34)<span>, 2021 (<i><span style="color:red;">Excellent Paper Award</span></i>)
+- [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, **Jingda Wu**, Zhiyu Huang, Chen Lv, <span style="color:green;">IEEE TVT<span>, 2021
   
-- [Battery-involved energy management for hybrid electric bus based on expert-assistance deep deterministic policy gradient algorithm](https://ieeexplore.ieee.org/abstract/document/9201478), **Jingda Wu**, Zhongbao Wei, Kailong Liu, Zhongyi Quan, Yunwei Li, <span style="color:green;">IEEE Transactions on Vehicular Technology<span>, 2021 (<i><span style="color:red;">ESI Highly Cited Paper)
+- Confidence-based Reinforcement Learning for Energy Management of a Hybrid Electric Vehicle, **Jingda Wu**, Zhiyu Huang, Junzhi Zhang, Chen Lv, <span style="color:green;">The 34th International Electric Vehicle Symposium (EVS34)<span>, 2021 (<i><span style="color:red;">Excellent Paper Award</span></i>)
   
-- [Battery thermal-and health-constrained energy management for hybrid electric bus based on soft actor-critic DRL algorithm](https://ieeexplore.ieee.org/abstract/document/9160869), **Jingda Wu**, Zhongbao Wei, Weihan Li, Yu Wang, Yunwei Li, Dirk Uwe Sauer, <span style="color:green;">IEEE Transactions on Industrial Informatics<span>, 2020 (<i><span style="color:red;">ESI Hot Paper)
+- [Battery-involved energy management for hybrid electric bus based on expert-assistance deep deterministic policy gradient algorithm](https://ieeexplore.ieee.org/abstract/document/9201478), **Jingda Wu**, Zhongbao Wei, Kailong Liu, Zhongyi Quan, Yunwei Li, <span style="color:green;">IEEE TVT<span>, 2021 (<i><span style="color:red;">ESI Highly Cited Paper)
+  
+- [Battery thermal-and health-constrained energy management for hybrid electric bus based on soft actor-critic DRL algorithm](https://ieeexplore.ieee.org/abstract/document/9160869), **Jingda Wu**, Zhongbao Wei, Weihan Li, Yu Wang, Yunwei Li, Dirk Uwe Sauer, <span style="color:green;">IEEE TII<span>, 2020 (<i><span style="color:red;">ESI Hot Paper)
   
 - [Multi-modal sensor fusion-based deep neural network for end-to-end autonomous driving with scene understanding](https://arxiv.org/pdf/2005.09202.pdf), Zhiyu Huang, Chen Lv, Yang Xing, **Jingda Wu**, <span style="color:green;">IEEE Sensors Journal<span>, 2020
   
