@@ -110,7 +110,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
   
 - [Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning](https://arxiv.org/pdf/2010.03118.pdf), Zhiyu Huang, **Jingda Wu**, Chen Lv, <span style="color:green;">IEEE TITS<span>, 2021
   
-- [Deep deterministic policy gradient-drl enabled multiphysics-constrained fast charging of lithium-ion battery](https://ieeexplore.ieee.org/abstract/document/9398552/), Zhongbao Wei, Zhongyi Quan, **Jingda Wu***, Yang Li, Josep Pou, Hao Zhong, <span style="color:green;">IEEE TIE<span>, 2021 (<i>ESI Hot Paper)
+- [Deep deterministic policy gradient-drl enabled multiphysics-constrained fast charging of lithium-ion battery](https://ieeexplore.ieee.org/abstract/document/9398552/), Zhongbao Wei, Zhongyi Quan, **Jingda Wu***, Yang Li, Josep Pou, Hao Zhong, <span style="color:green;">IEEE TIE<span>, 2021 (<i><span style="color:red;">ESI Highly Cited Paper)
   
 - [Digital Twin-enabled Reinforcement Learning for End-to-end Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9540179), **Jingda Wu**, Zhiyu Huang, Peng Hang, Chao Huang, Niels De Boer, Chen Lv, <span style="color:green;">IEEE DTPI<span>, 2021 (<i><span style="color:red;">Outstanding Student Paper Award)
   
