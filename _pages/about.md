@@ -92,12 +92,13 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 </div>
 </div>
 
-Real-time driver cognitive workload recognition: attention-enabled learning with multimodal information fusion. Haohan Yang, **Jingda Wu**, Zhongxu Hu, Chen Lv.  <span style="color:green;">IEEE Transactions on Industrial Electronics<span>, 2023
+- Real-time driver cognitive workload recognition: attention-enabled learning with multimodal information fusion. Haohan Yang, **Jingda Wu**, Zhongxu Hu, Chen Lv.  <span style="color:green;">IEEE Transactions on Industrial Electronics<span>, 2023
 
-Sampling Efficient Deep Reinforcement Learning through Preference-Guided Stochastic Exploration. Wenhui Huang, Cong Zhang, **Jingda Wu**, Xiangkun He, Jie Zhang, Chen Lv.  <span style="color:green;">IEEE Transactions on Neural Networks and Learning Systems<span>, 2023
-Differentiable integrated motion prediction and planning with learnable cost function for autonomous driving. Zhiyu Huang, Haochen Liu, **Jingda Wu**, Chen Lv.  <span style="color:green;">IEEE Transactions on Neural Networks and Learning Systems<span>, 2023
+- Sampling Efficient Deep Reinforcement Learning through Preference-Guided Stochastic Exploration. Wenhui Huang, Cong Zhang, **Jingda Wu**, Xiangkun He, Jie Zhang, Chen Lv.  <span style="color:green;">IEEE Transactions on Neural Networks and Learning Systems<span>, 2023
 
-Conditional predictive behavior planning with inverse reinforcement learning for human-like autonomous driving. Zhiyu Huang, Haochen Liu, **Jingda Wu**, Chen Lv. <span style="color:green;">IEEE Transactions on Intelligent Transportation Systems<span>, 2023
+- Differentiable integrated motion prediction and planning with learnable cost function for autonomous driving. Zhiyu Huang, Haochen Liu, **Jingda Wu**, Chen Lv.  <span style="color:green;">IEEE Transactions on Neural Networks and Learning Systems<span>, 2023
+
+- Conditional predictive behavior planning with inverse reinforcement learning for human-like autonomous driving. Zhiyu Huang, Haochen Liu, **Jingda Wu**, Chen Lv. <span style="color:green;">IEEE Transactions on Intelligent Transportation Systems<span>, 2023
 
 - [Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9921872), **Jingda Wu**, Wenhui Huang, Niels de Boer, Yanghui Mo, Xiangkun He, Chen Lv, <span style="color:green;">IEEE International Conference on Intelligent Transportation Systems (ITSC)<span>, 2022
   
