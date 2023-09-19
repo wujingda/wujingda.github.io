@@ -10,9 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoc researcher at the Hong Kong Polytechnic University. I received my Ph.D. degree from Nanyang Technological University (NTU) and was supervised by [Prof Chen Lv](https://scholar.google.com/citations?user=UKVs2CEAAAAJ&hl=en).
+I am currently a Postdoc researcher at the Hong Kong Polytechnic University. I received my Ph.D. degree from Nanyang Technological University (NTU).
 
-I focus on the intersection between reinforcement learning (RL) and autonomous vehicles. My Ph.D. study aims to harness human intelligence to optimize the training cost and performance of reinforcement learning algorithms. In particular, my research points include behavior decision-making and planning of autonomous vehicles and energy management of electrified vehicles. I have published more than 30 papers in top journals and conferences.
+I focus on the intersection between reinforcement learning (RL) and autonomous vehicles. My study aims to harness human intelligence to optimize the training cost and performance of reinforcement learning algorithms. In particular, my research points include behavior planning of autonomous vehicles and energy management of electrified vehicles. I have published more than 30 papers in top journals and conferences.
 
 # 🔥 News
 - *2022.09*: &nbsp;🎉🎉 I will give a talk at the IEEE ITSC 2023 Workshop with the theme of human-guided reinforcement learning (24 September 2023 @ Bilbao, Bizkaia, Spain).
@@ -34,7 +34,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/png_tpami.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='png_tpami.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Human-guided Reinforcement Learning with Sim-to-real Transfer for Autonomous Navigation](https://www.researchgate.net/publication/373907062_Human-Guided_Reinforcement_Learning_With_Sim-to-Real_Transfer_for_Autonomous_Navigation), **Jingda Wu**, Yanxin Zhou, Haohan Yang, Zhiyu Huang, Chen Lv
@@ -44,7 +44,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/png_tte.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='png_tte.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Reinforcement Learning based Energy-efficient Decision-making for Autonomous Electric Vehicle in Dynamic Traffic Environments](https://ieeexplore.ieee.org/abstract/document/10164154), **Jingda Wu**, Ziyou Song, Chen Lv
