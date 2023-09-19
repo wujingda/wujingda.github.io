@@ -141,9 +141,9 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 
 
 # 📖 Educations
-- *2019.08 - 2023.04*, Doctor of Philosophy, Robotics and Autonomous Systems, Nanyang Technological University, Singapore 
-- *2016.09 - 2019.06*, Master by Research, Mechanical Engineering, Beijing Institute of Technology, Beijing, China
-- *2012.09 - 2016.06*, Bachelor of Engineering, Vehicle Engineering, Beijing Institute of Technology, Beijing, China
+- *2019.08 - 2023.04*, Doctor of Philosophy, Robotics and Intelligent Systems, Nanyang Technological University, Singapore 
+- *2016.09 - 2019.06*, Master of Science (by Research), Mechanical Engineering, Beijing Institute of Technology, Beijing, China
+- *2012.09 - 2016.06*, Bachelor of Science, Vehicle Engineering, Beijing Institute of Technology, Beijing, China
 
 # 💻 Internships
 - *2018.05 - 2018.09*, Visiting Scholar, University of Waterloo, Canada
