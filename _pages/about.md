@@ -103,6 +103,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 - [Continuous reinforcement learning of energy management with deep Q network for a power split hybrid electric bus](https://www.sciencedirect.com/science/article/abs/pii/S0306261918304422), **Jingda Wu**, Hongwen He, Jiankun Peng, Yuecheng Li, Zhanjiang Li, **Applied energy, 2018** (<i>ESI Hot Paper)
 
 # 🎖 Recent Honors and Awards
+- *2023.08* 2nd Place Winner at [Track 1](https://psi-intention2022.github.io/), IEEE ITSS Student Competition in Pedestrian Behavior Prediction
 - *2022.12* 2nd Place Winner at [Algorithm Track](https://tianchi.aliyun.com/competition/entrance/531996/rankingList), Aliyun "Future Car" Smart Scenario Innovation Challenge
 - *2022.12* 3rd Place Winner at [Track 1 and Track 2, Most Innovative Award, NeurIPS Driving SMARTS Competition](https://smarts-project.github.io/), NeurIPS Competition Track
 - *2022.07* Participant, Imperial-TUM-NTU Global Fellows Programme
@@ -112,7 +113,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 
 
 # 📖 Educations
-- *2019.08 - Now*, Doctor of Philosophy, Robotics and Autonomous Systems, Nanyang Technological University, Singapore 
+- *2019.08 - 2023.04*, Doctor of Philosophy, Robotics and Autonomous Systems, Nanyang Technological University, Singapore 
 - *2016.09 - 2019.06*, Master by Research, Mechanical Engineering, Beijing Institute of Technology, Beijing, China
 - *2012.09 - 2016.06*, Bachelor of Engineering, Vehicle Engineering, Beijing Institute of Technology, Beijing, China
 
