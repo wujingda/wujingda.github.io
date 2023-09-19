@@ -51,6 +51,8 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 
 **IEEE Transactions on Transportation Electrification, 2023**
 - We propose a deep RL strategy for autonomous electrified vehicles (EVs) that takes as input the bird's-eye-view (BEV) images and enhances energy efficiency through smart lane-changing and car-following behaviors, incorporating a safety system for safer lane changes. Simulations show the strategy improves energy economy without compromising safety or traffic efficiency.
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/tnnls_jingda.png' alt="sym" width="100%"></div>
