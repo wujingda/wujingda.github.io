@@ -164,7 +164,6 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 - IEEE Internet of Things Journal
 - IEEE/CAA Journal of Automatica Sinica
 - Engineering Applications of Artificial Intelligence
-- Artificial Intelligence Review 
 - Renewable and Sustainable Energy Reviews
 - Applied Energy
 - Proceedings of IMechE, Part D, Journal of Automotive Engineering, et al.
