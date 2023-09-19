@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a Postdoc researcher at the Hong Kong Polytechnic University. I received my Ph.D. degree from Nanyang Technological University (NTU).
 
-I focus on the intersection between reinforcement learning (RL) and autonomous vehicles. My study aims to harness human intelligence to optimize the training cost and performance of reinforcement learning algorithms. In particular, my research points include behavior planning of autonomous vehicles and energy management of electrified vehicles. I have published more than 30 papers in top journals and conferences.
+I focus on the intersection between reinforcement learning (RL) and autonomous electrified vehicles. From the methodology aspect, my study aims to harness human intelligence to optimize the training cost and performance of machine learning algorithms. The specific research points include human guidance-based reinforcement learning algorithms, behavior planning of autonomous vehicles, and data-driven energy management of electrified vehicles. I have published more than 30 papers in top journals and conferences.
 
 
 # 🔥 News
