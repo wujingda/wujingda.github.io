@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingda Wu"
-description              : "Focusing on reinforcement learning and behavior planning of automated driving."
+description              : 
 repository               : "wujingda/wujingda.github.io"
 google_scholar_stats_use_cdn : true
 
