@@ -43,7 +43,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 [Human-guided Reinforcement Learning with Sim-to-real Transfer for Autonomous Navigation](https://www.researchgate.net/publication/373907062_Human-Guided_Reinforcement_Learning_With_Sim-to-Real_Transfer_for_Autonomous_Navigation), **Jingda Wu**, Yanxin Zhou, Haohan Yang, Zhiyu Huang, Chen Lv
 
 **IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023** \| [**Project**](https://wujingda.github.io/Multi-Hug-RL/)
--  We propose a human-guided RL framework for UGVs, incorporating a series of human guidance mechanisms to enhance RL's efficiency and effectiveness during both simulations and real-world experiments. The developed method demonstrates improved performance in goal-reaching and safety while navigating in diverse environments using tiny neural networks and image inputs, and showcases favorable physical fine-tuning ability via online human guidance.
+-  We propose a human-guided RL framework for UGVs, incorporating a series of human guidance mechanisms to enhance RL's efficiency and effectiveness during both simulations and real-world experiments. It demonstrates improved performance in goal-reaching and safety while navigating in diverse environments using tiny neural networks and image inputs, and showcases favorable physical fine-tuning ability via online human guidance.
 </div>
 </div>
 
@@ -53,7 +53,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 [Deep Reinforcement Learning based Energy-efficient Decision-making for Autonomous Electric Vehicle in Dynamic Traffic Environments](https://ieeexplore.ieee.org/abstract/document/10164154), **Jingda Wu**, Ziyou Song, Chen Lv
 
 **IEEE Transactions on Transportation Electrification, 2023**
-- We propose a deep RL strategy for autonomous electrified vehicles (EVs) that takes as input the bird's-eye-view (BEV) images and enhances energy efficiency through smart lane-changing and car-following behaviors, incorporating a safety system for safer lane changes. Simulations show the strategy improves energy economy without compromising safety or traffic efficiency.
+- We propose a deep RL strategy for autonomous EVs that takes as input BEV images and enhances energy efficiency through smart lane-changing and car-following behaviors, incorporating a safety checker system for safer lane changes. 
 </div>
 </div>
 
