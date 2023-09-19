@@ -149,5 +149,25 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 - *2018.05 - 2018.09*, Visiting Scholar, University of Waterloo, Canada
 
 # 📚 Academic Services
-- Journal Reviewer: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE Transactions on Industrial Electronics (TIE), IEEE Transactions on Intelligent Vehicles (TIV), IEEE Transactions on Transportation Electrification (TTE), Applied Energy, Computational Intelligence and Neuroscience, IET Intelligent Transport Systems, Proceedings of IMechE, Part D, Control Engineering Practice, et al.
-- Conference Reviewer: IV'22, ITSC'22.
+## Guest Editor:
+- Journal of Advanced Transportation, *Interaction, Cooperation and Competition of Autonomous Vehicles*
+- IET Renewable Power Generation, *Smart energy storage system management for renewable energy integration*
+
+## Journal Reviewer:
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Intelligent Transportation Systems
+- IEEE Transactions on Intelligent Vehicles 
+- IEEE Transactions on Industrial Electronics
+- IEEE Transactions on Transportation Electrification
+- IEEE Transactions on IEEE Transactions on Automation Science and Engineering
+- IEEE Transactions on Cognitive and Developmental Systems
+- IEEE Internet of Things Journal
+- IEEE/CAA Journal of Automatica Sinica
+- Engineering Applications of Artificial Intelligence
+- Artificial Intelligence Review 
+- Renewable and Sustainable Energy Reviews
+- Applied Energy
+- Proceedings of IMechE, Part D, Journal of Automotive Engineering, et al.
+  
+## Conference Reviewer:
+- ICRA'23, IROS'23, ITSC'23, IV'23, IV'22, ITSC'22, et al.
