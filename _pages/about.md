@@ -36,7 +36,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 
 
 # 📝 Publications
-
+## Highlight
 <div class='paper-box'><div class='paper-box-image'><img src='png_tpami.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
