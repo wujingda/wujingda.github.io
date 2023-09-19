@@ -150,8 +150,8 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 
 # 📚 Academic Services
 ## Guest Editor:
-- Journal of Advanced Transportation, *Interaction, Cooperation and Competition of Autonomous Vehicles*
-- IET Renewable Power Generation, *Smart energy storage system management for renewable energy integration*
+- Journal of Advanced Transportation, Special Session on *Interaction, Cooperation and Competition of Autonomous Vehicles*
+- IET Renewable Power Generation, Special Session on *Smart energy storage system management for renewable energy integration*
 
 ## Journal Reviewer:
 - IEEE Transactions on Neural Networks and Learning Systems
