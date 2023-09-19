@@ -85,7 +85,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 
 [Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9802913), **Jingda Wu**, Zhiyu Huang, Chen Lv
 
-**IEEE Transactions on Intelligent Vehicle, 2022** (<i><span style="color:blue;">ESI Highly Cited Paper)
+**IEEE Transactions on Intelligent Vehicle, 2022** (<i><span style="color:darkred;">ESI Highly Cited Paper)
 - We propose an uncertainty-aware model-based RL method to improve the performance in the context of highly uncertain environment models. Based on an action-conditioned ensemble model, we develop an adaptive truncation approach to determine the utilization extent of the environment model and improve RL’s training efficiency and performance. 
 
 </div>
@@ -93,10 +93,10 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
 
 
 
-- [Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9921872), **Jingda Wu**, Wenhui Huang, Niels de Boer, Yanghui Mo, Xiangkun He, Chen Lv, **<span style="color:blue;">IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
-- [Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Mixed Traffic Environments](https://arxiv.org/pdf/2201.12776v1.pdf), Qi Liu, Zirui Li, Xueyuan Li, **Jingda Wu**, Shihua Yuan, **<span style="color:blue;">IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
-- [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, Zhiyu Huang, **Jingda Wu**, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
-- [Efficient Deep Reinforcement Learning with Imitative Expert Priors for Autonomous Driving](https://arxiv.org/pdf/2103.10690.pdf), Zhiyu Huang, **Jingda Wu**, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2022**
+- [Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9921872), **Jingda Wu**, Wenhui Huang, Niels de Boer, Yanghui Mo, Xiangkun He, Chen Lv, <span style="color:darkblue;">IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022
+- [Graph Convolution-Based Deep Reinforcement Learning for Multi-Agent Decision-Making in Mixed Traffic Environments](https://arxiv.org/pdf/2201.12776v1.pdf), Qi Liu, Zirui Li, Xueyuan Li, **Jingda Wu**, Shihua Yuan, <span style="color:darkblue;">IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022
+- [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, Zhiyu Huang, **Jingda Wu**, Chen Lv, <span style="color:darkblue;">IEEE Intelligent Vehicles Symposium (IV), 2022
+- [Efficient Deep Reinforcement Learning with Imitative Expert Priors for Autonomous Driving](https://arxiv.org/pdf/2103.10690.pdf), Zhiyu Huang, **Jingda Wu**, Chen Lv, (<span style="color:darkblue;">IEEE Transactions on Neural Networks and Learning Systems), 2022
 - [Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning](https://arxiv.org/pdf/2010.03118.pdf), Zhiyu Huang, **Jingda Wu**, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2021**
 - [Deep deterministic policy gradient-drl enabled multiphysics-constrained fast charging of lithium-ion battery](https://ieeexplore.ieee.org/abstract/document/9398552/), Zhongbao Wei, Zhongyi Quan, **Jingda Wu***, Yang Li, Josep Pou, Hao Zhong, **IEEE Transactions on Industrial Electronics, 2021** (<i>ESI Hot Paper)
 - [Digital Twin-enabled Reinforcement Learning for End-to-end Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9540179), **Jingda Wu**, Zhiyu Huang, Peng Hang, Chao Huang, Niels De Boer, Chen Lv, **IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021** (<i><span style="color:blue;">Outstanding Student Paper Award)
