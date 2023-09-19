@@ -116,7 +116,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous v
   
 - [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, **Jingda Wu**, Zhiyu Huang, Chen Lv, <span style="color:green;">IEEE TVT<span>, 2021
   
-- Confidence-based Reinforcement Learning for Energy Management of a Hybrid Electric Vehicle, **Jingda Wu**, Zhiyu Huang, Junzhi Zhang, Chen Lv, <span style="color:green;">The 34th International Electric Vehicle Symposium (EVS34)<span>, 2021 (<i><span style="color:red;">Excellent Paper Award</span></i>)
+- Confidence-based Reinforcement Learning for Energy Management of a Hybrid Electric Vehicle, **Jingda Wu**, Zhiyu Huang, Junzhi Zhang, Chen Lv, <span style="color:green;">EVS34<span>, 2021 (<i><span style="color:red;">Excellent Paper Award</span></i>)
   
 - [Battery-involved energy management for hybrid electric bus based on expert-assistance deep deterministic policy gradient algorithm](https://ieeexplore.ieee.org/abstract/document/9201478), **Jingda Wu**, Zhongbao Wei, Kailong Liu, Zhongyi Quan, Yunwei Li, <span style="color:green;">IEEE TVT<span>, 2021 (<i><span style="color:red;">ESI Highly Cited Paper)
   
