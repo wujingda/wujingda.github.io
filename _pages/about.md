@@ -160,11 +160,15 @@ I focus on the intersection between reinforcement learning (RL) and autonomous e
 - IEEE Transactions on Intelligent Transportation Systems
 - IEEE Transactions on Intelligent Vehicles 
 - IEEE Transactions on Industrial Electronics
+- IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Transportation Electrification
+- IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Automation Science and Engineering
 - IEEE Transactions on Cognitive and Developmental Systems
 - IEEE Internet of Things Journal
 - IEEE/CAA Journal of Automatica Sinica
+- IEEE Intelligent Transportation Systems Maganize
+- IEEE Vehicular Technology Magazine
 - Engineering Applications of Artificial Intelligence
 - Renewable and Sustainable Energy Reviews
 - Applied Energy
