@@ -92,7 +92,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous e
 </div>
 </div>
 
-- Sampling Efficient Deep Reinforcement Learning through Preference-Guided Stochastic Exploration. Wenhui Huang, Cong Zhang, **Jingda Wu**, Xiangkun He, Jie Zhang, Chen Lv.  <span style="color:green;">IEEE TNNLS<span>, 2023
+- [Sampling Efficient Deep Reinforcement Learning through Preference-Guided Stochastic Exploration](https://arxiv.org/abs/2206.09627). Wenhui Huang, Cong Zhang, **Jingda Wu**, Xiangkun He, Jie Zhang, Chen Lv.  <span style="color:green;">IEEE TNNLS<span>, 2023
   
 - [Real-time driver cognitive workload recognition: attention-enabled learning with multimodal information fusion](https://ieeexplore.ieee.org/abstract/document/10163920/). Haohan Yang, **Jingda Wu**, Zhongxu Hu, Chen Lv.  <span style="color:green;">IEEE TIE<span>, 2023
 
