@@ -100,7 +100,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous e
 
 - [Conditional predictive behavior planning with inverse reinforcement learning for human-like autonomous driving](https://ieeexplore.ieee.org/abstract/document/10073960/). Zhiyu Huang, Haochen Liu, **Jingda Wu**, Chen Lv. <span style="color:green;">IEEE TITS<span>, 2023
 
-- [Recurrent Neural Network-based Predictive Energy Management for Hybrid Energy Storage System of Electric Vehicles](https://ieeexplore.ieee.org/abstract/document/10003341). **Jingda Wu**, Zhiyu Huang, Chen Lv. <span style="color:green;">IEEE VPPC<span>, 2022.
+- [Recurrent Neural Network-based Predictive Energy Management for Hybrid Energy Storage System of Electric Vehicles](https://ieeexplore.ieee.org/abstract/document/10003341). **Jingda Wu**, Zhiyu Huang, Chen Lv. <span style="color:green;">IEEE VPPC<span>, 2022 (<i><span style="color:red;">Invited Paper for IEEE VTS Motor Vehicle Challenge Winner)
 	
 - [Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9921872), **Jingda Wu**, Wenhui Huang, Niels de Boer, Yanghui Mo, Xiangkun He, Chen Lv, <span style="color:green;">IEEE ITSC<span>, 2022
   
