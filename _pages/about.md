@@ -16,7 +16,8 @@ I focus on the intersection between reinforcement learning (RL) and autonomous e
 
 
 # 🔥 News
-- *2022.09*: &nbsp;🎉🎉 I will give a talk at the IEEE ITSC 2023 Workshop with the theme of human-guided reinforcement learning (24 September 2023 @ Bilbao, Bizkaia, Spain).
+- *2022.10*: &nbsp;🎉🎉 Our paper on brain-inspired reinforcement learning for safe autonomous driving has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
+- *2022.09*: &nbsp;🎉🎉 We won the best paper runner-up award in ITSC 2023!
 - *2022.09*: &nbsp;🎉🎉 Our paper on efficient reinforcement learning through preference-guided stochastic exploration has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS)!
 - *2022.08*: &nbsp;🎉🎉 Our team won the 2nd place award in Track 1, IEEE ITSS Student Competition in Pedestrian Behavior Prediction! We will give a talk at the IEEE ITSC 2023 Workshop.
 - *2022.07*: &nbsp;🎉🎉 Our papers on predictive decision-making/planning have been accepted by the International Conference on Intelligent Transportation Systems (ITSC)!
