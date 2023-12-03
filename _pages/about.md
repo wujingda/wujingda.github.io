@@ -16,7 +16,7 @@ I focus on the intersection between reinforcement learning (RL) and autonomous e
 
 
 # 🔥 News
-- *2022.12*: &nbsp;🎉🎉 I was elected as a PolyU distinguished Postdoc Fellow at the Hong Kong Polytechnic University.
+- *2022.12*: &nbsp;🎉🎉 I was elected as a PolyU Distinguished Postdoc Fellow at the Hong Kong Polytechnic University.
 - *2022.11*: &nbsp;🎉🎉 Our paper on confidence-aware reinforcement learning for electrified vehicles has been accepted by Renewable and Sustainable Energy Reviews (RSER)!
 - *2022.10*: &nbsp;🎉🎉 Our paper on brain-inspired reinforcement learning for safe autonomous driving has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
 - *2022.09*: &nbsp;🎉🎉 We won the best paper runner-up award in ITSC 2023!
